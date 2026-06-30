@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://githubroast.dev/u/midi-HL"><img src="https://githubroast.dev/api/badge/midi-HL" alt="GitHub Roast 评分徽章" /></a>
 <!--
 **midi-HL/midi-HL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
