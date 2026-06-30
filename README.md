@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/53af65e3-5ed0-4a69-bb6a-fb594a04820c" />
+[![GitHub Roast](https://githubroast.dev/api/card/midi-HL?theme=dark)](https://githubroast.dev/u/midi-HL)
 
 [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/midi-HL)](https://githubroast.dev/u/midi-HL)
 
