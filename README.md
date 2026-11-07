@@ -13,3 +13,12 @@ https://afdian.com/a/110521xykadi
 
 米坛社区主页：
 https://www.bandbbs.cn/members/1146291/
+
+个人博客：
+https://hlmidi.kdns.fr:20312/
+
+本站网页：
+https://bookmls.kdns.fr:20193/
+
+本站网盘：
+https://bookmls.kdns.fr:20193/openlist/
