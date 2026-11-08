@@ -1,12 +1,12 @@
-## 关于辰星
-The stars in the sky are not as bright as you 
-漫天星辰都不及你
+## The stars in the sky are not as bright as you 。漫天星辰都不及你
 
 ## 开发方向
 -网页应用开发
 -Android 应用开发
 -Windows 应用开发
 -Linux 应用开发
+
+## 联系方式 / 各平台账号
 
 Telegram联系方式 / Telegram contact information
 https://t.me/Edwin_hlcx
