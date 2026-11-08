@@ -14,9 +14,6 @@ https://t.me/Edwin_hlcx
 BiliBili 哔哩哔哩：
 https://space.bilibili.com/577919254
 
-爱发电主页：
-https://afdian.com/a/110521xykadi
-
 米坛社区主页：
 https://www.bandbbs.cn/members/1146291/
 
@@ -28,3 +25,7 @@ https://bookmls.kdns.fr:20193/
 
 个人网盘：
 https://bookmls.kdns.fr:20193/openlist/
+
+## 已入驻愛发电
+爱发电名称XYKadi
+https://afdian.com/a/110521xykadi
