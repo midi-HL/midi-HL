@@ -17,8 +17,8 @@ https://www.bandbbs.cn/members/1146291/
 个人博客：
 https://hlmidi.kdns.fr:20312/
 
-本站网页：
+个人网页：
 https://bookmls.kdns.fr:20193/
 
-本站网盘：
+个人网盘：
 https://bookmls.kdns.fr:20193/openlist/
