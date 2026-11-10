@@ -1,6 +1,6 @@
 ## The stars in the sky are not as bright as you 。漫天星辰都不及你
 
-##<p align="center">
+<p align="center">
   <img src="https://github-profiles-insights.vercel.app/api/insight?username=midi-HL&theme=github_light&graph=false&languages=true&streak=false&stats=true&header=true&summary=true&profile=false" alt="midi-HL's GitHub Insights" />
 </p>
 
